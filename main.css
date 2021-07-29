@@ -35,3 +35,39 @@ h1 {
     /* font-family: 'Rubik', sans-serif; */
 
 }
+
+@media only screen and (max-width: 400px) {
+    
+    h1 {
+        text-align: center;
+        font-size: 60px;
+        /* margin-right: 150px; */
+        margin-top: 20px;
+        font-family: 'Quicksand', sans-serif;
+    }
+
+    #myform {
+        display: block;
+        margin: auto;
+        width: 420px;
+    }
+
+    input{
+        width: 80px;
+        height: 80px;
+        font-size: 70px;
+        border-radius: 10px;
+        margin: 10px;
+        background-color: #000;
+        color: #fff;
+        border-style:outset;
+    }
+
+    #display {
+        width: 382px;
+        background-color: #1f80c9;
+        text-align: center;
+        font-size: xx-large;
+    }
+        
+  }
