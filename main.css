@@ -1,0 +1,37 @@
+input{
+    width: 100px;
+    height: 100px;
+    font-size: 75px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #000;
+    color: #fff;
+    border-style:outset;
+    /* border: 1px outset cadetblue; */
+}
+
+#display {
+    width: 470px;
+    background-color: #1f80c9;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#myform {
+    display: block;
+    margin: auto;
+    width: 500px;
+    /* margin-left: 225px; */
+    /* margin-top:20px; */
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    /* margin-right: 150px; */
+    margin-top: 20px;
+    font-family: 'Quicksand', sans-serif;
+    /* font-family: 'Lato', sans-serif; */
+    /* font-family: 'Rubik', sans-serif; */
+
+}
